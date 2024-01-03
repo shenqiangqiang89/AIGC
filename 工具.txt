@@ -1,0 +1,49 @@
+工具：
+1.ChatGPT聊天对话机器人：https://chat.openai.com/（目前登陆容易被封IP，可以使用https://chat.binjie.site:7777/#/chat/1679396015652）
+http://chat1.aichatos.com/
+https://chat1.aichatos.com/#/chat/1681783378187
+2.Copy.ai，优化拷贝来的文章和博客:  https://www.copy.ai/
+3.Notion ai,笔记领域的写作助手：https://www.notion.so/product
+4.CodeGeeX，代码自动生成工具：https://codegeex.cn/zh-CN
+5.new bing,聊天形式的搜索工具，https://www.bing.com/
+6.midjourney，AI绘图工具:https://www.midjourney.com/
+7.Chatpdf,快速阅读文件：https://www.chatpdf.com/
+8. chatexcel，通过聊天处理excel表格：https://chatexcel.com/
+9.文心一言，与人互动回答、功能类似chatgpt，需要申请体验 ：https://yiyan.baidu.com/welcome
+10.Github Copilot
+
+
+AIGC工具和资料汇总：
+https://qz-future.feishu.cn/sheets/shtcnKFboHizymscAqUbxZqYAJb?sheet=v4mNXX&table=tblW6PY7zV8Zgln1&view=vewI0q9qjQ  
+
+稳定翻墙 https://www.freewhale.vip/
+ChatGPT官网 https://platform.openai.com/
+海外手机验证码 https://sms-activate.org/
+569061700@qq.com
+shenQQ036458
+指令大全 https://www.explainthis.io/zh-hans/chatgpt
+
+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
+
+科学上网：
+https://github.com/aiboboxx/v2rayfree
+	免费节点：
+	https://clashnode.com
+	
+Prompt AI提示语
+
+
+
+Copilot X 介绍、申请预览版
+                https://zhuanlan.zhihu.com/p/616250941
+        prompt优化工具
+                https://promptperfect.jina.ai/
+                https://wiki.betawm.com/dep/staff/%E5%A6%82%E4%BD%95%E5%90%91_chatgpt_%E6%8F%90%E9%97%AE%E4%BB%A5%E8%8E%B7%E5%BE%97%E9%AB%98%E8%B4%A8%E9%87%8F%E7%AD%94%E6%A1%88_%E6%8F%90%E7%A4%BA%E6%8A%80%E5%B7%A7%E5%B7%A5%E7%A8%8B%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97
+                http://yesaiwen.com/art-of-asking-chatgpt-for-high-quality-answ-engineering-techniques/#24Text_generation_prompts
+                https://moonvy.com/apps/ops/
+                https://prompts.fresns.cn/
+        免费ChatGPT使用
+                https://chat.binjie.site:7777/
+        AIGC工具集合
+                https://www.aigc.cn/
+                https://aitoolbox.cn/
